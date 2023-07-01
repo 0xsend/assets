@@ -1,1 +1,1 @@
-# assets
+# Send.it assets
